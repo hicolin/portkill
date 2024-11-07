@@ -1,1 +1,3 @@
+```cmd
 Usage: portkill <port>
+```
